@@ -1,4 +1,8 @@
 ## Welcome to lilk0408's homepage!
 Hi! 
-(more coming soon)
+This is my page.
+Stay tuned for updates!
+
+## Plans
+###### (more coming soon)
 
