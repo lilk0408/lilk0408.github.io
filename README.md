@@ -2,7 +2,3 @@
 Hi! 
 (more coming soon)
 
-./configure
-make
-make test
-sudo make install
